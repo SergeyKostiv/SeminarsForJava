@@ -1,0 +1,2 @@
+июл. 23, 2023 6:36:02 PM Sem2 task4
+WARNING: /f/f/f/f/text.txt (No such file or directory)

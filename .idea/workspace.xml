@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b31245c5-f9e5-4f5e-8790-aaaf9ddb78ae" name="Changes" comment="Seminar1">
-      <change afterPath="$PROJECT_DIR$/src/Passports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sem5i.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sen5.java" afterDir="false" />
+    <list default="true" id="b31245c5-f9e5-4f5e-8790-aaaf9ddb78ae" name="Changes" comment="Seminar1-5">
+      <change afterPath="$PROJECT_DIR$/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sem6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,16 +59,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Sem5i">
+  <component name="RunManager" selected="Application.Sem6">
     <configuration name="Sem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sem2" />
-      <module name="SeminOneJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sem3" />
       <module name="SeminOneJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,6 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sem6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sem6" />
+      <module name="SeminOneJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sen5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sen5" />
       <module name="SeminOneJava" />
@@ -98,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sem6" />
         <item itemvalue="Application.Sem5i" />
         <item itemvalue="Application.Sen5" />
         <item itemvalue="Application.Sem4" />
         <item itemvalue="Application.Sem2" />
-        <item itemvalue="Application.Sem3" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +117,9 @@
       <workItem from="1690112708488" duration="8801000" />
       <workItem from="1690126525072" duration="395000" />
       <workItem from="1690207969390" duration="8824000" />
-      <workItem from="1690355409089" duration="12602000" />
+      <workItem from="1690355409089" duration="13025000" />
+      <workItem from="1690538187604" duration="270000" />
+      <workItem from="1690555302846" duration="14201000" />
     </task>
     <task id="LOCAL-00001" summary="Seminar1">
       <option name="closed" value="true" />
@@ -152,7 +153,23 @@
       <option name="project" value="LOCAL" />
       <updated>1690230223137</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Seminar1-5">
+      <option name="closed" value="true" />
+      <created>1690477012474</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690477012475</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Seminar1-5">
+      <option name="closed" value="true" />
+      <created>1690477038844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690477038844</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +188,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seminar1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar1" />
+    <MESSAGE value="Seminar1-5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar1-5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
